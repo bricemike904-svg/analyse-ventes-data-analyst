@@ -1,9 +1,9 @@
-#Analyse des ventes d'un commerce local
+# Analyse des ventes d'un commerce local
 
-##Contexte
+## Contexte
 Un petit commerce souhaite comprendre ses ventes afin d'identifier les produits les plus rentables et les jours les plus performants.
 
-##Objectifs
+## Objectifs
 - Nettoyer un jeu de données réel contenant des erreurs.
 - Analyser les ventes par produit et par jour.
 - Calculer le chiffre d'affaires.
